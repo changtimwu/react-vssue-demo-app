@@ -8,8 +8,8 @@ const vssopts = {
     api: GithubV3,
     owner: "changtimwu",
     repo: "react-vssue-demo-app",
-    clientId: "4778b1b133f535edfb62",
-    clientSecret: "362a569ffa5ce4d3de22d3360d4663bf5ae95394",
+    clientId: "a152cc337f4ba233f783",
+    clientSecret: "2d2f37d7d33ffc2833b232582c92e7542d2e737a",
     autoCreateIssue: true
 }
 
